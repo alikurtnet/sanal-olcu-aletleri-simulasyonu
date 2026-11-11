@@ -33,7 +33,7 @@
 
 | Uygulama / Tool | Dosya Adı / File Name | Rapor / Report |
 | :--- | :--- | :--- |
-| 🚀 Ölçüm Eğitimi (TR) | `Kumpas-Mikrometre-Egitim-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/9f0ec476d447e90c4f8131dd6973e92ff9bc97b2d1487c7bbf231be2dd201138/detection) |
+| 🚀 Ölçüm Eğitimi (TR) | `Kumpas-Mikrometre-Egitim-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/0b98011504c33fa46007633ba55d0d196ea48187c97df245c36b681aa9e48e27/detection) |
 | 🚀 Measurement Training (EN) | `Caliper-Micrometer.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/d081a908a891c1bdc7adae33ef0449c52aa1e3051c990708ca2073b4f759b56e/detection) |
 
 ---
